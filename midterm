@@ -1,0 +1,14 @@
+Question 1
+
+emre beken 
+Asciiname = 101 + 109 + 114 + 101 = 425
+AScisurname = 098 + 101 + 107 + 101 + 110 = 517
+ASciitotal = 101 + 109 + 114 + 101 + 098 + 101 + 107 + 101 + 110 = 942
+Timernumber = (942%3) + 1 = 1
+ARRNUMBER = 65536 - 1 = 65535
+Duration = (517%1500)*30 = 15510
+LEDPINNUMBER = (942%4)+12 = 14
+
+
+
+Question 2
